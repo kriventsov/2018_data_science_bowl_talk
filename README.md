@@ -1,1 +1,3 @@
-My presentation for the Learn Data Science meetup in Vancouver about 2018 Data Science Bowl on Kaggle, where I finished in the top 2% out of 3634 participants.
+This repository contains the slides of the presentation that I gave on March 22, 2018 for the Learn Data Science meetup in Vancouver. My presentation was about the IEEE Camera Model Identification competition on Kaggle.
+
+The video of my talk can be found here.
